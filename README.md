@@ -5,7 +5,7 @@
 ## Lab 1
 
 ### App Description
-This app shows teh basic development of how to add and customize views to be displayed on the screen
+This app shows the basic development of how to add and customize views to be displayed on the screen.
 
 ### App Walk-though
 
