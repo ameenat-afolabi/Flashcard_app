@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-This app shows the basic development of how to add and customize views to be displayed on the screen.
+This lab shows the basic development of how to add and customize differnt UI views to be displayed on the screen. It also aids with the understanding of how to debug crashes and log useful messages.
 
 ### App Walk-though
 
