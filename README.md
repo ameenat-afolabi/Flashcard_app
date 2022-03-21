@@ -8,6 +8,7 @@ This lab shows the basic development of how to add and customize differnt UI vie
 ### App Walk-though
 
 <img src="https://media.giphy.com/media/DvUtkzaFbH8D5A3cc2/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/T6QfzrhFK542UTfh5f/giphy.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
