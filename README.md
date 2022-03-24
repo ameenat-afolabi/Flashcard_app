@@ -33,8 +33,6 @@ This lab adds new functionalities for the user to create new questions and answe
 ### App Walk-though
 <img src="https://media.giphy.com/media/6FxuOVFcl9ZNPyUXMs/giphy.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
 - [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
