@@ -28,11 +28,9 @@ This lab shows the basic development of how to add and customize differnt UI vie
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
-
-### App Walk-though
 This lab adds new functionalities for the user to create new questions and answer flashcards. This lab also aids with learning how to create completely new screens, how to present them from the main screen, and how to pass data from one screen to another.
 
+### App Walk-though
 <img src="https://media.giphy.com/media/6FxuOVFcl9ZNPyUXMs/giphy.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
