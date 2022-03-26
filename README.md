@@ -31,7 +31,7 @@ This lab shows the basic development of how to add and customize differnt UI vie
 This lab adds new functionalities for the user to create new questions and answer flashcards. This lab also aids with learning how to create completely new screens, how to present them from the main screen, and how to pass data from one screen to another.
 
 ### App Walk-though
-<img src="https://media.giphy.com/media/6FxuOVFcl9ZNPyUXMs/giphy.gif" width=200><br>
+<img src="https://submissions.us-east-1.linodeobjects.com/mobile_app_design/garoWnlh.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
