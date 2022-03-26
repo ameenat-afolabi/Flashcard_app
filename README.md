@@ -49,7 +49,6 @@ This lab allows users to save and delete multiple user created cards so that use
 
 <img src="https://media.giphy.com/media/WtJr66hF9YRSgmTFWS/giphy.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
