@@ -47,8 +47,7 @@ This lab allows users to save and delete multiple user created cards so that use
 
 ### App Walk-though
 
-<img src="https://media.giphy.com/media/WtJr66hF9YRSgmTFWS/giphy.gif" width=200><br>
-
+<img src="https://user-images.githubusercontent.com/83844274/160251330-8eb7ae0f-1816-4b52-84e7-0d5a21074805.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
