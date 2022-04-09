@@ -55,3 +55,20 @@ This lab allows users to save and delete multiple user created cards so that use
 
 ## Optional
 - [x] User can delete a card and no longer see it in their deck anymore
+
+
+## Lab 4
+
+### App Description
+This is a spruced up version of my app with custom animations and styles to enhance the look of the app but also show how my skills have developed! 
+
+### App Walk-though
+
+<img src="https://user-images.githubusercontent.com/83844274/162560229-9bb96493-79de-40f2-9aa7-7f1806cdce07.gif" width=200><br>
+
+
+## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped
+
