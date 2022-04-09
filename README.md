@@ -64,8 +64,7 @@ This is a spruced up version of my app with custom animations and styles to enha
 
 ### App Walk-though
 
-<img src="https://user-images.githubusercontent.com/83844274/162560229-9bb96493-79de-40f2-9aa7-7f1806cdce07.gif" width=200><br>
-
+<img src="https://user-images.githubusercontent.com/83844274/162560331-64ed7c51-655f-4831-91c2-dbae7824a356.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
